@@ -81,9 +81,9 @@
                   <li>
                     <a class="page-scroll" href="#services">Services</a>
                   </li>
-                  <li>
+                  <!--<li>
                     <a class="page-scroll" href="#team">Team</a>
-                  </li>
+                  </li>-->
                   <!-- <li>
                     <a class="page-scroll" href="#portfolio">Portfolio</a>
                   </li> -->
@@ -105,8 +105,9 @@
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
       <div id="ensign-nivoslider" class="slides">
-        <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
+        <img src="img/slider/slider1.jpeg" alt="" title="#slider-direction-1" />
         <img src="img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
+		<img src="img/slider/slider3.jpeg" alt="" title="#slider-direction-3" />
       </div>
 
       <div id="slider-direction-1" class="slider-direction slider-one">
@@ -133,6 +134,18 @@
       </div>
 
       <div id="slider-direction-2" class="slider-direction slider-two">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="slider-content">
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+	  
+	  <div id="slider-direction-3" class="slider-direction slider-two">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -253,7 +266,7 @@
                   </a>
                 <h4>Prime Web </h4>
                 <p>
-                  Manages operations in a company
+                  Manages corporate operations
                 </p>
               </div>
             </div>
@@ -345,134 +358,34 @@
             <div class="single-team-member">
               <div class="team-img">
                 <a href="#">
-										<img src="img/team/1.jpg" alt="">
-									</a>
+					<img src="img/team/1.jpg" alt="">
+				</a>
                 <div class="team-social-icon text-center">
                   <ul>
                     <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
+						<a href="#">
+							<i class="fa fa-facebook"></i>
+						</a>
                     </li>
                     <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
+						<a href="#">
+							<i class="fa fa-twitter"></i>
+						</a>
                     </li>
                     <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
+						<a href="#">
+							<i class="fa fa-instagram"></i>
+						</a>
                     </li>
                   </ul>
                 </div>
               </div>
               <div class="team-content text-center">
-                <h4>Jhon Mickel</h4>
-                <p>Seo</p>
+                <h4>Wilson Omwitsa</h4>
+                <p>CEO</p>
               </div>
             </div>
           </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/2.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Andrew Arnold</h4>
-                <p>Web Developer</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/3.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Lellien Linda</h4>
-                <p>Web Design</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/4.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Jhon Powel</h4>
-                <p>Seo Expert</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
         </div>
       </div>
     </div>

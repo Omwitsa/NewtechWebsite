@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$mail->SMTPAuth = true;                          
 		//Provide username and password     
 		$mail->Username = "wilsonomwitsa98@gmail.com";                 
-		$mail->Password = "wwvbyytjkgtytroc";                           
+		$mail->Password = "123456789";                           
 		//If SMTP requires TLS encryption then set it
 		$mail->SMTPSecure = "tls";                           
 		//Set TCP port to connect to
